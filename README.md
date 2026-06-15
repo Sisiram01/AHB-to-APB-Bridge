@@ -40,7 +40,7 @@ version of the system bus.
 
 The overall architecture looks like the following:
 
-![AMBA System](AMBA System.png)
+![AMBA System](AMBA_System.png)
 
 ## Basic Terminology
 
@@ -116,7 +116,7 @@ The bridge unit converts system bus transfers into APB transfers and performs th
 
 The diagram below shows the interface:
 
-![APB Bridge](APB Bridge.png)
+![APB Bridge](APB_Bridge.png)
 
 ## Basic Implementation Tools
 
